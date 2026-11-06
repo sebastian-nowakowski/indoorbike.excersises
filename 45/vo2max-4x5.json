@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-vo2max-4x5",
+  "name": "VO2 Max 4x5 (45 min)",
+  "description": "Four 5-minute efforts at 113% FTP with 4-minute recoveries. 45 minutes total.",
+  "tags": [
+    "VO2 Max"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

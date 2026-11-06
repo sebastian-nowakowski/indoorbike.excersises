@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-threshold-2x20",
+  "name": "Threshold 2x20 (60 min)",
+  "description": "Classic FTP builder: two 20-minute blocks at 98% FTP with a 5-minute recovery. 60 minutes total.",
+  "tags": [
+    "Threshold",
+    "FTP"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 1200,
+      "powerPercentFTP": 98,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 1200,
+      "powerPercentFTP": 98,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

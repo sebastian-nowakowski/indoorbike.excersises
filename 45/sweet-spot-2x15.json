@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-sweet-spot-2x15",
+  "name": "Sweet Spot 2x15 (45 min)",
+  "description": "Two 15-minute efforts at 91% FTP with a 4-minute recovery. 45 minutes total.",
+  "tags": [
+    "Sweet Spot"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 480,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 900,
+      "powerPercentFTP": 91,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 900,
+      "powerPercentFTP": 91,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

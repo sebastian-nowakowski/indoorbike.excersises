@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "id": "my-indoor-workouts",
+  "name": "My Indoor Workouts",
+  "description": "Threshold, sweet spot, VO2 max, tempo, endurance and sprint sessions in 45 and 60 minute versions.",
+  "updatedEpoch": 1793966400000,
+  "bundles": [
+    {
+      "id": "workouts-60",
+      "name": "60 minute workouts",
+      "schemaVersion": 1,
+      "version": 1,
+      "url": "60/bundle-60.json"
+    },
+    {
+      "id": "workouts-45",
+      "name": "45 minute workouts",
+      "schemaVersion": 1,
+      "version": 1,
+      "url": "45/bundle-45.json"
+    }
+  ]
+}

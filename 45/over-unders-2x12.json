@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-over-unders-2x12",
+  "name": "Over-Unders 2x12 (45 min)",
+  "description": "Two 12-minute blocks alternating 2 min at 105% FTP and 2 min at 90%. 45 minutes total.",
+  "tags": [
+    "Threshold",
+    "Over-Unders"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 360,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

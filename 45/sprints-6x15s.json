@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-sprints-6x15s",
+  "name": "Sprints 6x15s (45 min)",
+  "description": "Six all-out 15-second sprints at 250% FTP with 4 min 15 s recoveries. 45 minutes total.",
+  "tags": [
+    "Sprint",
+    "Neuromuscular"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 720,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 255,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 255,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 255,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 255,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 255,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 255,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 360,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

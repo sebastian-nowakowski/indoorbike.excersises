@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-vo2max-5x5",
+  "name": "VO2 Max 5x5 (60 min)",
+  "description": "Five 5-minute efforts at 113% FTP with 5-minute recoveries. Efficient VO2 max session. 60 minutes total.",
+  "tags": [
+    "VO2 Max"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 113,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

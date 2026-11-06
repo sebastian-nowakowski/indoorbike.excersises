@@ -1,0 +1,668 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-over-unders-2x12",
+    "name": "Over-Unders 2x12 (45 min)",
+    "description": "Two 12-minute blocks alternating 2 min at 105% FTP and 2 min at 90%. 45 minutes total.",
+    "tags": [
+      "Threshold",
+      "Over-Unders"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 90,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-pyramid-1-4-1",
+    "name": "Pyramid 1-2-3-4-3-2-1 (45 min)",
+    "description": "Pyramid of 105% FTP efforts from 1 up to 4 minutes and back, with 2-minute recoveries. 45 minutes total.",
+    "tags": [
+      "Threshold",
+      "Pyramid"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 120,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 60,
+        "powerPercentFTP": 105,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 420,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-sprints-6x15s",
+    "name": "Sprints 6x15s (45 min)",
+    "description": "Six all-out 15-second sprints at 250% FTP with 4 min 15 s recoveries. 45 minutes total.",
+    "tags": [
+      "Sprint",
+      "Neuromuscular"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 720,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 15,
+        "powerPercentFTP": 250,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 255,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 15,
+        "powerPercentFTP": 250,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 255,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 15,
+        "powerPercentFTP": 250,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 255,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 15,
+        "powerPercentFTP": 250,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 255,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 15,
+        "powerPercentFTP": 250,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 255,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 15,
+        "powerPercentFTP": 250,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 255,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 360,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-sweet-spot-2x15",
+    "name": "Sweet Spot 2x15 (45 min)",
+    "description": "Two 15-minute efforts at 91% FTP with a 4-minute recovery. 45 minutes total.",
+    "tags": [
+      "Sweet Spot"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 480,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 91,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 91,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-tempo-30",
+    "name": "Tempo 30 (45 min)",
+    "description": "30 minutes steady at 83% FTP after a 10-minute warm-up. 45 minutes total.",
+    "tags": [
+      "Tempo",
+      "Endurance"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 1800,
+        "powerPercentFTP": 83,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-threshold-2x15",
+    "name": "Threshold 2x15 (45 min)",
+    "description": "Two 15-minute blocks at 98% FTP with a 4-minute recovery. 45 minutes total.",
+    "tags": [
+      "Threshold",
+      "FTP"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 480,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 98,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 900,
+        "powerPercentFTP": 98,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-vo2max-30-30",
+    "name": "VO2 Max 30/30s (45 min)",
+    "description": "Two sets of 10 x (30 s at 130% FTP / 30 s at 50%), with 5 minutes between sets. 45 minutes total.",
+    "tags": [
+      "VO2 Max",
+      "Short Intervals"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 130,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 30,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-vo2max-4x5",
+    "name": "VO2 Max 4x5 (45 min)",
+    "description": "Four 5-minute efforts at 113% FTP with 4-minute recoveries. 45 minutes total.",
+    "tags": [
+      "VO2 Max"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 600,
+        "powerPercentFTP": 55,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 113,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 113,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 113,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 240,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 113,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 180,
+        "powerPercentFTP": 45,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "my-indoor-workouts-45-zone2-endurance",
+    "name": "Zone 2 Endurance (45 min)",
+    "description": "Steady aerobic ride: 35 minutes at 65% FTP. 45 minutes total.",
+    "tags": [
+      "Endurance",
+      "Zone 2"
+    ],
+    "segments": [
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 2100,
+        "powerPercentFTP": 65,
+        "intervalType": "CONSTANT"
+      },
+      {
+        "lengthInSeconds": 300,
+        "powerPercentFTP": 50,
+        "intervalType": "CONSTANT"
+      }
+    ]
+  }
+]

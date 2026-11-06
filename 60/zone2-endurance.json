@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-zone2-endurance",
+  "name": "Zone 2 Endurance (60 min)",
+  "description": "Steady, conversational aerobic ride: 50 minutes at 65% FTP. 60 minutes total.",
+  "tags": [
+    "Endurance",
+    "Zone 2"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 3000,
+      "powerPercentFTP": 65,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

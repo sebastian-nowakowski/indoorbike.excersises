@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-threshold-2x15",
+  "name": "Threshold 2x15 (45 min)",
+  "description": "Two 15-minute blocks at 98% FTP with a 4-minute recovery. 45 minutes total.",
+  "tags": [
+    "Threshold",
+    "FTP"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 480,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 900,
+      "powerPercentFTP": 98,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 900,
+      "powerPercentFTP": 98,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-sprints-8x15s",
+  "name": "Sprints 8x15s (60 min)",
+  "description": "Eight all-out 15-second sprints with long recoveries for full power each time. Neuromuscular power. 60 minutes total.",
+  "tags": [
+    "Sprint",
+    "Neuromuscular"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 900,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 250,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 285,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

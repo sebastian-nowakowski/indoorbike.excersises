@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-zone2-endurance",
+  "name": "Zone 2 Endurance (45 min)",
+  "description": "Steady aerobic ride: 35 minutes at 65% FTP. 45 minutes total.",
+  "tags": [
+    "Endurance",
+    "Zone 2"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 2100,
+      "powerPercentFTP": 65,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

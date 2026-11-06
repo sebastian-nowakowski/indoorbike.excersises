@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-over-unders-3x12",
+  "name": "Over-Unders 3x12 (60 min)",
+  "description": "Three 12-minute blocks alternating 2 min at 105% FTP (over) and 2 min at 90% (under). Teaches lactate clearance. 60 minutes total.",
+  "tags": [
+    "Threshold",
+    "Over-Unders"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

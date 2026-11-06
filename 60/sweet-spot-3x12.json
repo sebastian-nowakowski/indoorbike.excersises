@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-sweet-spot-3x12",
+  "name": "Sweet Spot 3x12 (60 min)",
+  "description": "Three 12-minute efforts at 91% FTP with 4-minute recoveries. Strong stimulus, easier to recover from than threshold. 60 minutes total.",
+  "tags": [
+    "Sweet Spot"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 720,
+      "powerPercentFTP": 91,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 720,
+      "powerPercentFTP": 91,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 720,
+      "powerPercentFTP": 91,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 360,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

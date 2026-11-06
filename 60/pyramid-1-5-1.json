@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-pyramid-1-5-1",
+  "name": "Pyramid 1-2-3-4-5-4-3-2-1 (60 min)",
+  "description": "Pyramid of 105% FTP efforts from 1 up to 5 minutes and back, with 2-minute recoveries. 60 minutes total.",
+  "tags": [
+    "Threshold",
+    "Pyramid"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 720,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 420,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

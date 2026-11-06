@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-vo2max-30-30",
+  "name": "VO2 Max 30/30s (45 min)",
+  "description": "Two sets of 10 x (30 s at 130% FTP / 30 s at 50%), with 5 minutes between sets. 45 minutes total.",
+  "tags": [
+    "VO2 Max",
+    "Short Intervals"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 130,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

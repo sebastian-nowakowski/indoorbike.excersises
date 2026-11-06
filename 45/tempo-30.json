@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-45-tempo-30",
+  "name": "Tempo 30 (45 min)",
+  "description": "30 minutes steady at 83% FTP after a 10-minute warm-up. 45 minutes total.",
+  "tags": [
+    "Tempo",
+    "Endurance"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 600,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 1800,
+      "powerPercentFTP": 83,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}

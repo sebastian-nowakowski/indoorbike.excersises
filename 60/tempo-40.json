@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-tempo-40",
+  "name": "Tempo 40 (60 min)",
+  "description": "Aerobic tempo: 40 minutes steady at 83% FTP after a 12-minute warm-up. 60 minutes total.",
+  "tags": [
+    "Tempo",
+    "Endurance"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 720,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 2400,
+      "powerPercentFTP": 83,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 480,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}
