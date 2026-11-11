@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "id": "my-indoor-workouts-45-lavender-unicorn",
+  "name": "Lavender Unicorn (45 min)",
+  "description": "Warm-up with short openers, then 2 sets of 3 blocks (3 min at 85%, 1 min at 105%, 30 s at 115%), 3 min easy between sets, final effort at 150%. 45 minutes total.",
+  "tags": [
+    "Tempo",
+    "Surges"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 80,
+      "cadenceMaxRpm": 90
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 85,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 80,
+      "cadenceMaxRpm": 90
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 80,
+      "cadenceMaxRpm": 90
+    },
+    {
+      "lengthInSeconds": 15,
+      "powerPercentFTP": 115,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 85,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 115,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 85,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 115,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 85,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 115,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 80,
+      "cadenceMaxRpm": 90
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 85,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 115,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 85,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 115,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 180,
+      "powerPercentFTP": 85,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 60,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 85,
+      "cadenceMaxRpm": 95
+    },
+    {
+      "lengthInSeconds": 30,
+      "powerPercentFTP": 150,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 105,
+      "cadenceMaxRpm": 115
+    },
+    {
+      "lengthInSeconds": 435,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT",
+      "cadenceMinRpm": 80,
+      "cadenceMaxRpm": 90
+    }
+  ]
+}
