@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "my-indoor-workouts-60-a-lot-under-plus-a-little-over",
+  "name": "A Lot Under Plus a Little Over (60 min)",
+  "description": "Stepped ramp warm-up, then 3 blocks of 8 min at 90% FTP finishing with a 90 s push at 105%, separated by 5 min recoveries. 60 minutes total.",
+  "tags": [
+    "Sweet Spot",
+    "Over-Unders"
+  ],
+  "segments": [
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 55,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 60,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 65,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 70,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 120,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 480,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 90,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 480,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 90,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 300,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 480,
+      "powerPercentFTP": 90,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 90,
+      "powerPercentFTP": 105,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 240,
+      "powerPercentFTP": 50,
+      "intervalType": "CONSTANT"
+    },
+    {
+      "lengthInSeconds": 210,
+      "powerPercentFTP": 45,
+      "intervalType": "CONSTANT"
+    }
+  ]
+}
